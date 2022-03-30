@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="246.30185"
+   height="80"
+   viewBox="0 0 65.167368 21.166668"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logotipo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showborder="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="false"
+     inkscape:bbox-nodes="false"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="127.27922"
+     inkscape:cy="-13.435028"
+     inkscape:window-width="1024"
+     inkscape:window-height="568"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2808"
+       empspacing="4"
+       spacingx="1.0583334"
+       spacingy="1.0583334"
+       enabled="true"
+       originx="9.9999987e-07"
+       originy="16.933334" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid5911"
+       gridanglex="45"
+       gridanglez="45"
+       enabled="false"
+       originx="9.9999987e-07"
+       originy="16.933334" />
+    <sodipodi:guide
+       position="9.9999988e-07,3.9999999e-06"
+       orientation="1,0"
+       id="guide824" />
+    <sodipodi:guide
+       position="9.9999988e-07,21.166664"
+       orientation="0,-1"
+       id="guide826" />
+    <sodipodi:guide
+       position="21.166669,3.9999999e-06"
+       orientation="0,-1"
+       id="guide857" />
+    <sodipodi:guide
+       position="21.166669,21.166664"
+       orientation="1,0"
+       id="guide859" />
+    <sodipodi:guide
+       position="-4.2333326,21.166664"
+       orientation="1,0"
+       id="guide861" />
+    <sodipodi:guide
+       position="21.166669,25.400004"
+       orientation="0,-1"
+       id="guide863" />
+    <sodipodi:guide
+       position="25.400003,3.9999999e-06"
+       orientation="1,0"
+       id="guide865" />
+    <sodipodi:guide
+       position="21.166669,-4.233333"
+       orientation="0,-1"
+       id="guide867" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(9.9999988e-7,16.933334)">
+    <path
+       id="path3478"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       d="M 10.583334,-16.933334 A 10.583334,10.583334 0 0 0 -9.9999988e-7,-6.3500005 10.583334,10.583334 0 0 0 10.583334,4.2333335 10.583334,10.583334 0 0 0 21.166668,-6.3500005 10.583334,10.583334 0 0 0 10.583334,-16.933334 Z M 8.083227,-13.08344 A 4.2333336,4.2333336 0 0 1 12.316562,-8.8501065 4.2333336,4.2333336 0 0 1 8.083227,-4.6167729 4.2333336,4.2333336 0 0 1 3.8498934,-8.8501065 4.2333336,4.2333336 0 0 1 8.083227,-13.08344 Z m 6.441986,8.5586512 a 2.1166668,2.1166668 0 0 1 2.116667,2.1166669 2.1166668,2.1166668 0 0 1 -2.116667,2.1166668 2.1166668,2.1166668 0 0 1 -2.116667,-2.1166668 2.1166668,2.1166668 0 0 1 2.116667,-2.1166669 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:Mulish;word-spacing:0px;stroke-width:0.264583"
+       x="24.218901"
+       y="0.36512434"
+       id="text2537"><tspan
+         sodipodi:role="line"
+         id="tspan2535"
+         style="stroke-width:0.264583"
+         x="24.218901"
+         y="0.36512434">Orca</tspan></text>
+  </g>
+</svg>

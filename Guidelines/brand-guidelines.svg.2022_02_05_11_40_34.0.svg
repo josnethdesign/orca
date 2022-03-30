@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="559.37006"
+   height="396.8504"
+   viewBox="0 0 148.00001 105"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="brand-guidelines.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#f7f7f7"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:snap-page="true"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:zoom="0.58330938"
+     inkscape:cx="1174.3339"
+     inkscape:cy="978.04016"
+     inkscape:window-width="1024"
+     inkscape:window-height="568"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false"
+     inkscape:snap-bbox-midpoints="false">
+    <sodipodi:guide
+       position="16.53646,-22.000007"
+       orientation="1,0"
+       id="guide1722"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="181.90106,-22.000007"
+       orientation="1,0"
+       id="guide1724"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.00001,94.416672"
+       orientation="0,-1"
+       id="guide1726"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="100.00001,9.7499968"
+       orientation="0,-1"
+       id="guide1728"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="99.218758,-22.000007"
+       orientation="1,0"
+       id="guide15682"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="33.293053,-22.000007"
+       orientation="0,-1"
+       id="guide44914"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="166.46527,-106.66668"
+       orientation="0,-1"
+       id="guide44996"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid45258"
+       spacingx="16.536459"
+       spacingy="10.583334"
+       color="#000000"
+       opacity="0.23137255"
+       empcolor="#000000"
+       empopacity="0.25490196" />
+    <sodipodi:guide
+       position="0,40.852681"
+       orientation="1,0"
+       id="guide20802" />
+    <sodipodi:guide
+       position="198.43751,52.083333"
+       orientation="1,0"
+       id="guide20833" />
+    <sodipodi:guide
+       position="16.53646,-64.333344"
+       orientation="0,-1"
+       id="guide36630" />
+    <sodipodi:guide
+       position="16.163927,-138.41679"
+       orientation="0,-1"
+       id="guide38198" />
+    <sodipodi:guide
+       position="99.218754,-180.75011"
+       orientation="0,-1"
+       id="guide24844" />
+    <sodipodi:guide
+       position="225.55741,52.083308"
+       orientation="1,0"
+       id="guide34578" />
+    <sodipodi:guide
+       position="390.92152,52.083308"
+       orientation="1,0"
+       id="guide34580" />
+    <sodipodi:guide
+       position="308.23947,52.083308"
+       orientation="0,-1"
+       id="guide43173" />
+    <sodipodi:guide
+       position="308.23948,-65.941093"
+       orientation="1,0"
+       id="guide46212" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter16098"
+       x="-0.10475333"
+       y="-0.10787184"
+       width="1.2226008"
+       height="1.2292277">
+      <feFlood
+         flood-opacity="0.14902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood16088" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite16090" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur16092" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset16094" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite16096" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter16128"
+       x="-0.10475333"
+       y="-0.10787184"
+       width="1.2226008"
+       height="1.2292277">
+      <feFlood
+         flood-opacity="0.14902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood16118" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite16120" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur16122" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset16124" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite16126" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter16158"
+       x="-0.10475333"
+       y="-0.10787184"
+       width="1.2226008"
+       height="1.2292277">
+      <feFlood
+         flood-opacity="0.14902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood16148" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite16150" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur16152" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset16154" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite16156" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter16170"
+       x="-0.10475333"
+       y="-0.10787184"
+       width="1.2226008"
+       height="1.2292277">
+      <feFlood
+         flood-opacity="0.14902"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood16160" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite16162" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur16164" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset16166" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite16168" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1229"
+       x="-0.012094488"
+       y="-0.022677163"
+       width="1.0257008"
+       height="1.048189">
+      <feFlood
+         flood-opacity="0.298039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1219" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1221" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1"
+         result="blur"
+         id="feGaussianBlur1223" />
+      <feOffset
+         dx="0.3"
+         dy="0.3"
+         result="offset"
+         id="feOffset1225" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1227" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect36868"
+       width="198.4375"
+       height="105.83334"
+       x="206.37505"
+       y="2.9404959e-05"
+       rx="3.96875"
+       ry="1.9562687" />
+    <g
+       transform="matrix(0.20300293,0,0,0.20300293,211.67034,101.85064)"
+       id="g36876"
+       style="fill:#434343;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#434343;fill-opacity:1;paint-order:markers stroke fill"
+         id="path36870" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#434343;fill-opacity:1"
+         xml:space="preserve"
+         id="text36874"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan36872"
+           style="fill:#434343;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.334625px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.264583"
+       x="222.44586"
+       y="16.814844"
+       id="text36880"><tspan
+         sodipodi:role="line"
+         id="tspan36878"
+         style="fill:#100e34;fill-opacity:1;stroke-width:0.264583;font-size:10.334625px"
+         x="222.44586"
+         y="16.814844">Tipography</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;stroke-width:0.264583"
+       x="370.59161"
+       y="101.51909"
+       id="text36884"><tspan
+         sodipodi:role="line"
+         id="tspan36882"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="370.59161"
+         y="101.51909">@josnethmoreno</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:Mulish;word-spacing:0px;stroke-width:0.264583"
+       x="250.42821"
+       y="46.193832"
+       id="text17518"><tspan
+         sodipodi:role="line"
+         id="tspan17516"
+         style="stroke-width:0.264583"
+         x="250.42821"
+         y="46.193832">Mulish</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:19.05px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:Mulish;word-spacing:0px;stroke-width:0.264583"
+       x="222.91151"
+       y="46.682678"
+       id="text19802"><tspan
+         sodipodi:role="line"
+         id="tspan19800"
+         style="font-size:19.05px;stroke-width:0.264583"
+         x="222.91151"
+         y="46.682678">Aa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';letter-spacing:0.264583px;word-spacing:0px;stroke-width:0.264583;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="223.05995"
+       y="56.440887"
+       id="text23306"><tspan
+         sodipodi:role="line"
+         id="tspan23304"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Mulish Light';font-family:Mulish;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="223.05995"
+         y="56.440887">ABCDEFGHIJKLMNÑOPQRSTUVWXYZ</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Mulish Light';font-family:Mulish;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="223.05995"
+         y="63.849213"
+         id="tspan23308">abcdefghijklmnñopqrstuvwxyz</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Mulish Light';font-family:Mulish;font-weight:300;font-style:normal;font-stretch:normal;font-variant:normal"
+         x="223.05995"
+         y="71.257538"
+         id="tspan24432">123456789#$&amp;%(){}[]¿?¡!,.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.3346px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:Mulish;word-spacing:0px;stroke-width:0.264583"
+       x="326.79486"
+       y="38.747501"
+       id="text26195"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:200;font-stretch:normal;font-size:10.3346px;font-family:Mulish;-inkscape-font-specification:'Mulish Ultra-Light';stroke-width:0.264583"
+         x="326.79486"
+         y="38.747501"
+         id="tspan28127">Light</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:10.3346px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="326.79486"
+         y="56.833096"
+         id="tspan31745">Normal</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.3346px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';stroke-width:0.264583"
+         x="326.79486"
+         y="74.918694"
+         id="tspan28129">Bold</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect44790"
+       width="198.4375"
+       height="105.83334"
+       x="0"
+       y="116.41667"
+       rx="3.96875"
+       ry="1.9562687" />
+    <g
+       transform="matrix(0.20300293,0,0,0.20300293,5.2952641,218.26738)"
+       id="g8296-3"
+       style="fill:#434343;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#434343;fill-opacity:1;paint-order:markers stroke fill"
+         id="path8290-6" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#434343;fill-opacity:1"
+         xml:space="preserve"
+         id="text8294-7"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan8292-5"
+           style="fill:#434343;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529166;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect886"
+       width="198.4375"
+       height="105.83334"
+       x="0"
+       y="0"
+       rx="3.9687459"
+       ry="1.9562668" />
+    <g
+       transform="matrix(1.6240235,0,0,1.6240235,47.083332,62.812549)"
+       id="g8296">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="paint-order:markers stroke fill"
+         id="path8290" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75"
+         xml:space="preserve"
+         id="text8294"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan8292">Orca</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.334625px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';word-spacing:0px;stroke-width:0.264583;fill:#100e34;fill-opacity:1"
+       x="16.070793"
+       y="133.23148"
+       id="text53373"><tspan
+         sodipodi:role="line"
+         id="tspan53371"
+         style="stroke-width:0.264583;fill:#100e34;fill-opacity:1;font-size:10.334625px"
+         x="16.070793"
+         y="133.23148">Colors</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;stroke-width:0.264583"
+       x="164.21674"
+       y="217.93584"
+       id="text3443"><tspan
+         sodipodi:role="line"
+         id="tspan3441"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="164.21674"
+         y="217.93584">@josnethmoreno</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect1066"
+       width="198.4375"
+       height="105.83334"
+       x="-2.6457987"
+       y="232.83342"
+       rx="3.96875"
+       ry="1.9562687" />
+    <g
+       transform="matrix(0.20300293,0,0,0.20300293,5.2952643,334.68412)"
+       id="g1074"
+       style="fill:#434343;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#434343;fill-opacity:1;paint-order:markers stroke fill"
+         id="path1068" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#434343;fill-opacity:1"
+         xml:space="preserve"
+         id="text1072"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan1070"
+           style="fill:#434343;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.334625px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.264583"
+       x="16.070801"
+       y="249.64825"
+       id="text1078"><tspan
+         sodipodi:role="line"
+         id="tspan1076"
+         style="fill:#100e34;fill-opacity:1;stroke-width:0.264583;font-size:10.334625px"
+         x="16.070801"
+         y="249.64825">Logo monochromatic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;stroke-width:0.264583"
+       x="164.21674"
+       y="334.35239"
+       id="text1082"><tspan
+         sodipodi:role="line"
+         id="tspan1080"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="164.21674"
+         y="334.35239">@josnethmoreno</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect1084"
+       width="198.437"
+       height="105.83334"
+       x="209.02094"
+       y="232.83342"
+       rx="3.96875"
+       ry="1.9562687" />
+    <g
+       transform="matrix(0.20300293,0,0,0.20300293,216.96201,334.68412)"
+       id="g1092"
+       style="fill:#434343;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#434343;fill-opacity:1;paint-order:markers stroke fill"
+         id="path1086" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#434343;fill-opacity:1"
+         xml:space="preserve"
+         id="text1090"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan1088"
+           style="fill:#434343;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.334625px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.264583"
+       x="227.73753"
+       y="249.64825"
+       id="text6579"><tspan
+         sodipodi:role="line"
+         id="tspan6577"
+         style="fill:#100e34;fill-opacity:1;stroke-width:0.264583;font-size:10.334625px"
+         x="227.73753"
+         y="249.64825">Logo color</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;stroke-width:0.264583"
+       x="375.88327"
+       y="334.35239"
+       id="text1100"><tspan
+         sodipodi:role="line"
+         id="tspan1098"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="375.88327"
+         y="334.35239">@josnethmoreno</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.529167;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect1561"
+       width="198.437"
+       height="105.83334"
+       x="209.02094"
+       y="116.41668"
+       rx="3.96875"
+       ry="1.9562687" />
+    <g
+       transform="matrix(0.20300293,0,0,0.20300293,216.96201,218.26738)"
+       id="g1569"
+       style="fill:#434343;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#434343;fill-opacity:1;paint-order:markers stroke fill"
+         id="path1563" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#434343;fill-opacity:1"
+         xml:space="preserve"
+         id="text1567"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan1565"
+           style="fill:#434343;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:10.334625px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.264583"
+       x="227.73755"
+       y="133.23149"
+       id="text1573"><tspan
+         sodipodi:role="line"
+         id="tspan1571"
+         style="fill:#100e34;fill-opacity:1;stroke-width:0.264583;font-size:10.334625px"
+         x="227.73755"
+         y="133.23149">Logo mark</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;stroke-width:0.264583"
+       x="375.88327"
+       y="217.93582"
+       id="text1577"><tspan
+         sodipodi:role="line"
+         id="tspan1575"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:3.70417px;font-family:Mulish;-inkscape-font-specification:'Mulish Light';stroke-width:0.264583"
+         x="375.88327"
+         y="217.93582">@josnethmoreno</tspan></text>
+    <path
+       d="m 253.33356,160.64186 a 10.583533,10.583533 0 0 0 -10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,-10.58354 10.583533,10.583533 0 0 0 -10.58353,-10.58354 z m -2.50015,3.85003 a 4.2334133,4.2334133 0 0 1 4.23342,4.23342 4.2334133,4.2334133 0 0 1 -4.23342,4.23341 4.2334133,4.2334133 0 0 1 -4.23341,-4.23341 4.2334133,4.2334133 0 0 1 4.23341,-4.23342 z m 6.4422,8.55891 a 2.1167066,2.1167066 0 0 1 2.11671,2.11671 2.1167066,2.1167066 0 0 1 -2.11671,2.1167 2.1167066,2.1167066 0 0 1 -2.11671,-2.1167 2.1167066,2.1167066 0 0 1 2.11671,-2.11671 z"
+       stroke-linecap="square"
+       stroke-width="0.529177"
+       style="fill:#4f48ec;fill-opacity:1;paint-order:markers stroke fill"
+       id="path2" />
+    <path
+       d="m 290.37525,160.64186 a 10.583533,10.583533 0 0 0 -10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,-10.58354 10.583533,10.583533 0 0 0 -10.58353,-10.58354 z m -2.50015,3.85003 a 4.2334133,4.2334133 0 0 1 4.23342,4.23342 4.2334133,4.2334133 0 0 1 -4.23342,4.23341 4.2334133,4.2334133 0 0 1 -4.23341,-4.23341 4.2334133,4.2334133 0 0 1 4.23341,-4.23342 z m 6.4422,8.55891 a 2.1167066,2.1167066 0 0 1 2.11671,2.11671 2.1167066,2.1167066 0 0 1 -2.11671,2.1167 2.1167066,2.1167066 0 0 1 -2.11671,-2.1167 2.1167066,2.1167066 0 0 1 2.11671,-2.11671 z"
+       stroke-linecap="square"
+       stroke-width="0.529177"
+       style="fill:#ffbf18;fill-opacity:1;paint-order:markers stroke fill"
+       id="path34742" />
+    <path
+       d="m 327.41694,160.64186 a 10.583533,10.583533 0 0 0 -10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,-10.58354 10.583533,10.583533 0 0 0 -10.58353,-10.58354 z m -2.50015,3.85003 a 4.2334133,4.2334133 0 0 1 4.23342,4.23342 4.2334133,4.2334133 0 0 1 -4.23342,4.23341 4.2334133,4.2334133 0 0 1 -4.23341,-4.23341 4.2334133,4.2334133 0 0 1 4.23341,-4.23342 z m 6.4422,8.55891 a 2.1167066,2.1167066 0 0 1 2.11671,2.11671 2.1167066,2.1167066 0 0 1 -2.11671,2.1167 2.1167066,2.1167066 0 0 1 -2.11671,-2.1167 2.1167066,2.1167066 0 0 1 2.11671,-2.11671 z"
+       stroke-linecap="square"
+       stroke-width="0.529177"
+       style="fill:#100e34;fill-opacity:1;paint-order:markers stroke fill"
+       id="path34744" />
+    <path
+       d="m 364.45863,160.64186 a 10.583533,10.583533 0 0 0 -10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,10.58354 10.583533,10.583533 0 0 0 10.58353,-10.58354 10.583533,10.583533 0 0 0 -10.58353,-10.58354 z m -2.50015,3.85003 a 4.2334133,4.2334133 0 0 1 4.23342,4.23342 4.2334133,4.2334133 0 0 1 -4.23342,4.23341 4.2334133,4.2334133 0 0 1 -4.23341,-4.23341 4.2334133,4.2334133 0 0 1 4.23341,-4.23342 z m 6.4422,8.55891 a 2.1167066,2.1167066 0 0 1 2.11671,2.11671 2.1167066,2.1167066 0 0 1 -2.11671,2.1167 2.1167066,2.1167066 0 0 1 -2.11671,-2.1167 2.1167066,2.1167066 0 0 1 2.11671,-2.11671 z"
+       stroke-linecap="square"
+       stroke-width="0.529177"
+       style="fill:none;stroke:#100e34;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path34746" />
+    <path
+       id="rect43197"
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.487151;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 233.49479,268.14718 c -4.39738,0 -7.9375,3.00028 -7.9375,6.72706 v 21.78281 c 0,3.72679 3.54012,6.72706 7.9375,6.72706 h 74.74479 v -35.23693 z" />
+    <path
+       id="path46421"
+       style="fill:#ffbf18;fill-opacity:1;stroke:none;stroke-width:0.487151;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 382.98437,268.14718 c 4.39737,0 7.9375,3.00028 7.9375,6.72706 v 21.78281 c 0,3.72679 -3.54013,6.72706 -7.9375,6.72706 h -74.74479 v -35.23693 z" />
+    <g
+       transform="matrix(0.68003309,0,0,0.68003309,244.74045,290.08385)"
+       id="g49148"
+       style="fill:#ffffff;fill-opacity:0.966464">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#ffffff;fill-opacity:0.966464;paint-order:markers stroke fill"
+         id="path49142" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#ffffff;fill-opacity:0.966464"
+         xml:space="preserve"
+         id="text49146"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan49144"
+           style="fill:#ffffff;fill-opacity:0.966464">Orca</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.68003309,0,0,0.68003309,327.42274,290.08386)"
+       id="g49282"
+       style="fill:#100e34;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#100e34;fill-opacity:1;paint-order:markers stroke fill"
+         id="path49276" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#100e34;fill-opacity:1"
+         xml:space="preserve"
+         id="text49280"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan49278"
+           style="fill:#100e34;fill-opacity:1">Orca</tspan></text>
+    </g>
+    <path
+       id="path50419"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.487151;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 21.828035,268.14718 c -4.397377,0 -7.937494,3.00028 -7.937494,6.72706 v 21.78281 c 0,3.72679 3.540117,6.72706 7.937494,6.72706 h 74.744748 v -35.23693 z" />
+    <path
+       id="path50421"
+       style="fill:#100e34;fill-opacity:1;stroke:none;stroke-width:0.487151;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       d="m 171.31757,268.14718 c 4.39737,0 7.9375,3.00028 7.9375,6.72706 v 21.78281 c 0,3.72679 -3.54013,6.72706 -7.9375,6.72706 H 96.572783 v -35.23693 z" />
+    <g
+       transform="matrix(0.68003309,0,0,0.68003309,33.073689,290.08386)"
+       id="g50429"
+       style="fill:#100e34;fill-opacity:0.966464">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#100e34;fill-opacity:0.966464;paint-order:markers stroke fill"
+         id="path50423" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#100e34;fill-opacity:0.966464"
+         xml:space="preserve"
+         id="text50427"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan50425"
+           style="fill:#100e34;fill-opacity:0.966464">Orca</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.68003309,0,0,0.68003309,115.75594,290.08386)"
+       id="g50437"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="fill:#ffffff;fill-opacity:1;paint-order:markers stroke fill"
+         id="path50431" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#ffffff;fill-opacity:1"
+         xml:space="preserve"
+         id="text50435"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan50433"
+           style="fill:#ffffff;fill-opacity:1">Orca</tspan></text>
+    </g>
+  </g>
+</svg>
