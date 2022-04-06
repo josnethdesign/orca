@@ -10,8 +10,8 @@
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    sodipodi:docname="design-system.svg"
    inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/design-system.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="162.63466"
+   inkscape:export-ydpi="162.63466"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,9 +37,9 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-paths="false"
      inkscape:bbox-nodes="false"
-     inkscape:zoom="0.33710094"
-     inkscape:cx="430.13823"
-     inkscape:cy="12137.314"
+     inkscape:zoom="0.16855047"
+     inkscape:cx="1972.7029"
+     inkscape:cy="287.74764"
      inkscape:window-width="1024"
      inkscape:window-height="568"
      inkscape:window-x="0"
@@ -238,6 +238,10 @@
        position="195.1306,2325.5811"
        orientation="1,0"
        id="guide2998" />
+    <sodipodi:guide
+       position="386.97464,3348.4145"
+       orientation="1,0"
+       id="guide1844" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -1423,6 +1427,144 @@
          operator="over"
          result="composite2" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter20797-2"
+       x="-0.027858798"
+       y="-0.054980922"
+       width="1.0557176"
+       height="1.1099618">
+      <feFlood
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood20787-8" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite20789-8" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur20791-9" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset20793-2" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite20795-8" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix20967-8" />
+      <feFlood
+         id="feFlood20969-8"
+         flood-opacity="0.101961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite20971-6"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur20973-8"
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset20975-3"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite20977-8"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter3140"
+       x="-0.027858797"
+       y="-0.054980922"
+       width="1.0557176"
+       height="1.1099617">
+      <feFlood
+         flood-opacity="0.2"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3118" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3120" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.3"
+         result="blur"
+         id="feGaussianBlur3122" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3124" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite3126" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix3128" />
+      <feFlood
+         id="feFlood3130"
+         flood-opacity="0.101961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite3132"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur3134"
+         in="composite1"
+         stdDeviation="0.5"
+         result="blur" />
+      <feOffset
+         id="feOffset3136"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite3138"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -1910,8 +2052,8 @@
        rx="10.583333"
        ry="10.583333"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.3346px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.264583"
@@ -1927,8 +2069,8 @@
        transform="matrix(0.46035313,0,0,0.46035313,16.536459,26.845164)"
        id="g1384"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96">
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952">
       <path
          d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
          fill="#4f48ec"
@@ -1960,8 +2102,8 @@
        y="57.345829"
        id="text4127"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
          sodipodi:role="line"
          id="tspan4125"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#100e34;fill-opacity:1;stroke-width:0.264583"
@@ -1979,8 +2121,8 @@
        y="79.359161"
        id="text27266"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
          sodipodi:role="line"
          id="tspan27264"
          style="font-size:3.70417px;fill:#918fa3;fill-opacity:1;stroke-width:0.264583"
@@ -3534,7 +3676,7 @@
          id="tspan83851-0"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.264583"
          x="99.959457"
-         y="2767.7668">Indicator circular</tspan></text>
+         y="2767.7668">Indicator linear</tspan></text>
     <rect
        style="fill:#ffbf18;fill-opacity:1;stroke-width:0.443741;stroke-linecap:square;paint-order:markers stroke fill"
        id="rect2173-6-6-6-6-5"
@@ -4006,8 +4148,8 @@
        y="22.004471"
        ry="1.8399796"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952" />
     <text
        xml:space="preserve"
        style="font-weight:300;font-size:3.94281px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;stroke-width:0.394281"
@@ -4015,8 +4157,8 @@
        y="26.199629"
        id="text25967"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96"><tspan
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
          sodipodi:role="line"
          id="tspan25965"
          style="font-size:3.94281px;fill:#100e34;stroke-width:0.394281"
@@ -5396,8 +5538,8 @@
        d="M 651.5332,144.15039 A 157.37954,157.37954 0 0 0 494.15234,301.53125 157.37954,157.37954 0 0 0 528.7832,400 h 181.21875 c 22.16,0 40,-17.84 40,-40 V 178.78125 A 157.37954,157.37954 0 0 0 651.5332,144.15039 Z m -37.17773,57.25 a 62.951819,62.951819 0 0 1 62.95117,62.95313 62.951819,62.951819 0 0 1 -62.95117,62.95117 62.951819,62.951819 0 0 1 -62.95313,-62.95117 62.951819,62.951819 0 0 1 62.95313,-62.95313 z m 95.79492,127.27149 a 31.47591,31.47591 0 0 1 31.47656,31.47656 31.47591,31.47591 0 0 1 -31.47656,31.47656 31.47591,31.47591 0 0 1 -31.47656,-31.47656 31.47591,31.47591 0 0 1 31.47656,-31.47656 z"
        transform="scale(0.26458333)"
        inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
-       inkscape:export-xdpi="96"
-       inkscape:export-ydpi="96" />
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952" />
     <rect
        style="fill:#6b677e;fill-opacity:1;stroke:none;stroke-width:0.245129;stroke-linecap:square;paint-order:stroke fill markers"
        id="rect2345"
@@ -5406,5 +5548,1372 @@
        x="68.92395"
        y="332.84067"
        ry="4.2333331" />
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.679381;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect886-3"
+       width="213.783"
+       height="161.925"
+       x="361.61816"
+       y="2.1386044"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.270311;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect44790-3"
+       width="66.199356"
+       height="82.791595"
+       x="432.2547"
+       y="-4.7405624"
+       rx="3.530632"
+       ry="3.530632" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.44766px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.0882654"
+       x="437.61597"
+       y="4.2230177"
+       id="text53373-60"><tspan
+         sodipodi:role="line"
+         id="tspan53371-6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.44766px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#100e34;fill-opacity:1;stroke-width:0.0882654"
+         x="437.61597"
+         y="4.2230177">Style Guide</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.148034;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect2173-2"
+       width="4.6602736"
+       height="0.3530632"
+       x="437.77133"
+       y="20.201633"
+       ry="0.1765316" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+       x="443.289"
+       y="20.889889"
+       id="text7636-6"><tspan
+         sodipodi:role="line"
+         id="tspan7634-1"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+         x="443.289"
+         y="20.889889">PRIMARY COLORS </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.75831px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.0882654"
+       x="437.77133"
+       y="13.396932"
+       id="text139706-8"><tspan
+         sodipodi:role="line"
+         id="tspan139704-7"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.75831px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#100e34;fill-opacity:1;stroke-width:0.0882654"
+         x="437.77133"
+         y="13.396932">Colors</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.148034;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect2173-6-9"
+       width="4.6602736"
+       height="0.3530632"
+       x="437.88132"
+       y="41.374474"
+       ry="0.1765316" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+       x="443.39899"
+       y="42.062721"
+       id="text7636-7-20"><tspan
+         sodipodi:role="line"
+         id="tspan7634-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+         x="443.39899"
+         y="42.062721">SECONDARY COLORS</tspan></text>
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect27349-3"
+       width="8.4735174"
+       height="8.4735174"
+       x="444.47952"
+       y="24.080172"
+       ry="2.8245056" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+       x="445.72299"
+       y="34.694874"
+       id="text54016-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan54014-9-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+         x="445.72299"
+         y="34.694874">#5E5C70</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect30241-9"
+       width="8.4735174"
+       height="8.4735174"
+       x="455.42447"
+       y="24.080172"
+       ry="2.8245056" />
+    <rect
+       style="fill:#100e34;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect30945-2"
+       width="8.4735174"
+       height="8.4735174"
+       x="466.54596"
+       y="24.080172"
+       ry="2.8245056" />
+    <rect
+       style="fill:#fefeff;fill-opacity:1;stroke:#918fa3;stroke-width:0.0817758;stroke-linecap:square;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect30965-2"
+       width="8.4735174"
+       height="8.4735174"
+       x="477.66745"
+       y="24.080172"
+       ry="2.8245056" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+       x="456.74847"
+       y="34.694874"
+       id="text34769-8"><tspan
+         sodipodi:role="line"
+         id="tspan34767-9"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+         x="456.74847"
+         y="34.694874">#FFBF18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+       x="467.82828"
+       y="34.694874"
+       id="text34773-7"><tspan
+         sodipodi:role="line"
+         id="tspan34771-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+         x="467.82828"
+         y="34.694874">#100E34</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+       x="479.12421"
+       y="34.683578"
+       id="text34777-6"><tspan
+         sodipodi:role="line"
+         id="tspan34775-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0882654"
+         x="479.12421"
+         y="34.683578">#FFFFFF</tspan></text>
+    <rect
+       style="fill:#706bf0;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect39477-2"
+       width="4.2367587"
+       height="4.2367587"
+       x="-464.78064"
+       y="45.216206"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#5d58ee;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40180-9"
+       width="4.2367587"
+       height="4.2367587"
+       x="-459.48468"
+       y="45.216206"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#3c34ea;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40192-3"
+       width="4.2367587"
+       height="4.2367587"
+       x="-454.18875"
+       y="45.216206"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#2a21e8;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40198-1"
+       width="4.2367587"
+       height="4.2367587"
+       x="-448.89279"
+       y="45.216206"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#ffcb42;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40660-9"
+       width="4.2367587"
+       height="4.2367587"
+       x="-485.96448"
+       y="45.216179"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#ffc52e;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40666-4"
+       width="4.2367587"
+       height="4.2367587"
+       x="-480.66849"
+       y="45.216179"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#ffba05;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40672-7"
+       width="4.2367587"
+       height="4.2367587"
+       x="-475.37256"
+       y="45.216179"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#f0ae00;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40678-8"
+       width="4.2367587"
+       height="4.2367587"
+       x="-470.0766"
+       y="45.216179"
+       ry="1.4122528"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#e25563;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40912-4"
+       width="4.2367587"
+       height="4.2367587"
+       x="444.65607"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#f3bec3;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40918-5"
+       width="4.2367587"
+       height="4.2367587"
+       x="449.95203"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#4ab563;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40924-0"
+       width="4.2367587"
+       height="4.2367587"
+       x="455.24796"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#a5dab1;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect40930-3"
+       width="4.2367587"
+       height="4.2367587"
+       x="460.54388"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#3cb1c3;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect41168-6"
+       width="4.2367587"
+       height="4.2367587"
+       x="465.83984"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#c5e8ed;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect41174-1"
+       width="4.2367587"
+       height="4.2367587"
+       x="471.13577"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#8660cb;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect41180-0"
+       width="4.2367587"
+       height="4.2367587"
+       x="476.43173"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#b286f8;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect41186-6"
+       width="4.2367587"
+       height="4.2367587"
+       x="481.72769"
+       y="52.630497"
+       ry="1.4122528" />
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.148034;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect77183-3"
+       width="4.6602736"
+       height="0.3530632"
+       x="437.88132"
+       y="63.617409"
+       ry="0.1765316" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+       x="443.39899"
+       y="64.305649"
+       id="text77187-2"><tspan
+         sodipodi:role="line"
+         id="tspan77185-0"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41225px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0882654"
+         x="443.39899"
+         y="64.305649">GRAY COLORS</tspan></text>
+    <rect
+       style="fill:#2e2e38;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78409-6"
+       width="4.2367587"
+       height="4.2367587"
+       x="444.65607"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#474554;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78411-1"
+       width="4.2367587"
+       height="4.2367587"
+       x="449.95203"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#928fa3;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78413-5"
+       width="4.2367587"
+       height="4.2367587"
+       x="460.54388"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#9f9dae;fill-opacity:0.8;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78415-5"
+       width="4.2367587"
+       height="4.2367587"
+       x="465.83984"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#d6d5dd;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78417-4"
+       width="4.2367587"
+       height="4.2367587"
+       x="471.13577"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#ebebef;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78419-7"
+       width="4.2367587"
+       height="4.2367587"
+       x="476.43173"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#f7f7f8;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect78423-6"
+       width="4.2367587"
+       height="4.2367587"
+       x="481.72769"
+       y="67.459137"
+       ry="1.4122528" />
+    <rect
+       style="fill:#6b677e;fill-opacity:1;stroke:none;stroke-width:0.0817758;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect2345-5"
+       width="4.2367587"
+       height="4.2367587"
+       x="455.24796"
+       y="67.459137"
+       ry="1.4122528" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.7px;line-height:1;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';letter-spacing:0.264583px;word-spacing:0px;fill:#fefeff;fill-opacity:1;stroke-width:0.264583"
+       x="373.14041"
+       y="54.048676"
+       id="text4127-1"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
+         sodipodi:role="line"
+         id="tspan4125-2"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#fefeff;fill-opacity:1;stroke-width:0.264583"
+         x="373.14041"
+         y="54.048676">Design </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#fefeff;fill-opacity:1;stroke-width:0.264583"
+         x="373.14041"
+         y="66.748672"
+         id="tspan7445-7">System</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.70417px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:Mulish;word-spacing:0px;fill:#f1f1f3;fill-opacity:1;stroke-width:0.264583"
+       x="373.53043"
+       y="76.062012"
+       id="text27266-0"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
+         sodipodi:role="line"
+         id="tspan27264-9"
+         style="font-size:3.70417px;fill:#f1f1f3;fill-opacity:1;stroke-width:0.264583"
+         x="373.53043"
+         y="76.062012">Style Guide | Components</tspan></text>
+    <g
+       transform="matrix(0.46035313,0,0,0.46035313,373.74507,21.886628)"
+       id="g1384-6"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"
+       style="fill:#fefeff">
+      <path
+         d="M 10.583,-16.933 A 10.583,10.583 0 0 0 0,-6.35 10.583,10.583 0 0 0 10.583,4.233 10.583,10.583 0 0 0 21.166,-6.35 10.583,10.583 0 0 0 10.583,-16.933 Z m -2.5001,3.8499 a 4.2333,4.2333 0 0 1 4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,4.2333 4.2333,4.2333 0 0 1 -4.2333,-4.2333 4.2333,4.2333 0 0 1 4.2333,-4.2333 z m 6.442,8.5587 a 2.1167,2.1167 0 0 1 2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,2.1167 2.1167,2.1167 0 0 1 -2.1167,-2.1167 2.1167,2.1167 0 0 1 2.1167,-2.1167 z"
+         fill="#4f48ec"
+         stroke-linecap="square"
+         stroke-width="0.52917"
+         style="paint-order:markers stroke fill;fill:#fefeff"
+         id="path1378-7" />
+      <text
+         x="24.218901"
+         y="0.36512434"
+         fill="#100e34"
+         font-family="Mulish"
+         font-size="19.05px"
+         stroke-width="0.26458"
+         word-spacing="0px"
+         style="line-height:1.75;fill:#fefeff"
+         xml:space="preserve"
+         id="text1382-5"><tspan
+           x="24.218901"
+           y="0.36512434"
+           fill="#100e34"
+           stroke-width="0.26458"
+           id="tspan1380-35"
+           style="fill:#fefeff">Orca</tspan></text>
+    </g>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke:none;stroke-width:0.788563;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect24867-6"
+       width="11.403359"
+       height="5.5199389"
+       x="405.806"
+       y="17.045937"
+       ry="1.8399796"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:3.94281px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;stroke-width:0.394281"
+       x="407.42627"
+       y="21.241095"
+       id="text25967-2"
+       inkscape:export-filename="/home/josneth/Documents/My Projects/Orca/Design System/portada.png"
+       inkscape:export-xdpi="184.31952"
+       inkscape:export-ydpi="184.31952"><tspan
+         sodipodi:role="line"
+         id="tspan25965-9"
+         style="font-size:3.94281px;fill:#100e34;stroke-width:0.394281"
+         x="407.42627"
+         y="21.241095">beta</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.321876;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect132343-9-3"
+       width="66.145836"
+       height="117.4875"
+       x="504.52188"
+       y="-219.08075"
+       rx="3.5277686"
+       ry="3.5277686"
+       transform="scale(1,-1)" />
+    <path
+       d="m 533.12679,183.50932 -0.398,0.40077 c -0.0222,0.0197 -0.0479,0.0297 -0.0736,0.0297 -0.0257,0 -0.0513,-0.01 -0.0709,-0.0297 l -0.398,-0.40077 c -0.0315,-0.0287 -0.0401,-0.0717 -0.0245,-0.10909 0.0155,-0.0375 0.0521,-0.062 0.0926,-0.062 h 0.79883 c 0.0405,0 0.0771,0.0243 0.0926,0.0619 0.0155,0.0375 0.01,0.0807 -0.019,0.10916 z"
+       id="path69190-4-3"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2600-9-3"
+       width="24.694382"
+       height="3.8805456"
+       x="510.12222"
+       y="181.69844"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75461"
+       y="184.15671"
+       id="text2604-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2602-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="184.15671">Default</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.147913;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect86622-9-4"
+       width="4.6564941"
+       height="0.35277686"
+       x="509.9664"
+       y="177.73489"
+       ry="0.17638843" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="515.47961"
+       y="178.42261"
+       id="text86626-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan86624-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="515.47961"
+         y="178.42261">SELECTS</tspan></text>
+    <rect
+       style="fill:#e3e3e8;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect101299-2-1-8"
+       width="1.5874956"
+       height="1.5874956"
+       x="529.59003"
+       y="169.44664"
+       ry="0.79374778" />
+    <rect
+       style="fill:#fbfbff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect122168-6-9"
+       width="0.79374778"
+       height="0.79374778"
+       x="529.98694"
+       y="169.84352"
+       ry="0.79374778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="531.4386"
+       y="170.75404"
+       id="text101303-0-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan101301-9-9-6"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="531.4386"
+         y="170.75404">Disabled Selected</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.168093;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect88386-6-2-8"
+       width="1.409042"
+       height="1.409042"
+       x="529.63129"
+       y="166.19334"
+       ry="0.70555371" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="531.35297"
+       y="167.41153"
+       id="text96643-2-0-7"><tspan
+         sodipodi:role="line"
+         id="tspan96641-9-2-9"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="531.35297"
+         y="167.41153">Disabled Unselected</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+       x="529.43317"
+       y="157.34543"
+       id="text263222-3-3-0"><tspan
+         sodipodi:role="line"
+         id="tspan263220-6-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+         x="529.43317"
+         y="157.34543">Radios</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4f48ec;stroke-width:0.168093;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect88386-5-3"
+       width="1.409042"
+       height="1.409042"
+       x="529.61932"
+       y="159.57622"
+       ry="0.70555371" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="531.341"
+       y="160.7944"
+       id="text96643-9-3"><tspan
+         sodipodi:role="line"
+         id="tspan96641-2-7"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="531.341"
+         y="160.7944">Unselected</tspan></text>
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect101299-28-3"
+       width="1.5874956"
+       height="1.5874956"
+       x="529.56903"
+       y="162.83321"
+       ry="0.79374778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="531.41754"
+       y="164.14061"
+       id="text101303-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan101301-3-6"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="531.41754"
+         y="164.14061">Selected</tspan></text>
+    <rect
+       style="fill:#e3e3e8;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect101299-2-5"
+       width="1.5874956"
+       height="1.5874956"
+       x="510.09915"
+       y="169.31442"
+       ry="0.52916521" />
+    <path
+       d="m 511.39287,169.82269 c 0,0.0183 -0.007,0.0365 -0.0209,0.0505 l -0.57143,0.57142 c -0.0139,0.014 -0.0322,0.021 -0.0505,0.021 -0.0183,0 -0.0366,-0.007 -0.0505,-0.021 l -0.28571,-0.28572 c -0.014,-0.014 -0.0209,-0.0323 -0.0209,-0.0505 0,-0.0408 0.0334,-0.0714 0.0714,-0.0714 0.0183,0 0.0366,0.007 0.0505,0.021 l 0.23522,0.23533 0.52099,-0.521 c 0.0138,-0.014 0.0321,-0.021 0.0504,-0.021 0.0382,0 0.0714,0.0306 0.0714,0.0714 z"
+       id="path78230-5-7-2"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.00223211" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="511.94772"
+       y="170.62184"
+       id="text101303-0-6"><tspan
+         sodipodi:role="line"
+         id="tspan101301-9-5"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="511.94772"
+         y="170.62184">Disabled Checked</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.168093;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect88386-6-8"
+       width="1.409042"
+       height="1.409042"
+       x="510.14041"
+       y="166.06114"
+       ry="0.46968067" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="511.86209"
+       y="167.27933"
+       id="text96643-2-7"><tspan
+         sodipodi:role="line"
+         id="tspan96641-9-9"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="511.86209"
+         y="167.27933">Disabled Unchecked</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+       x="509.94229"
+       y="157.21321"
+       id="text263222-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan263220-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+         x="509.94229"
+         y="157.21321">Checkboxes</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.147913;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect2173-6-6-6-6-4"
+       width="4.6564941"
+       height="0.35277686"
+       x="510.03403"
+       y="116.66893"
+       ry="0.17638843" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="515.54718"
+       y="117.35664"
+       id="text7636-7-2-2-7-1"><tspan
+         sodipodi:role="line"
+         id="tspan7634-5-9-9-5-0"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="515.54718"
+         y="117.35664">TEXT  FIELDS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.75607px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.0881941"
+       x="509.80527"
+       y="109.90011"
+       id="text139706-3-3-2-4"><tspan
+         sodipodi:role="line"
+         id="tspan139704-5-5-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.75607px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#100e34;fill-opacity:1;stroke-width:0.0881941"
+         x="509.80527"
+         y="109.90011">Forms </tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1471-7"
+       width="24.694382"
+       height="3.8805456"
+       x="510.11777"
+       y="120.62811"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75015"
+       y="123.0864"
+       id="text17666-0"><tspan
+         sodipodi:role="line"
+         id="tspan17664-8"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75015"
+         y="123.0864">Default</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4f48ec;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect20160-6"
+       width="24.694382"
+       height="3.8805456"
+       x="537.62933"
+       y="120.62307"
+       ry="1.2935152" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="539.26672"
+       y="123.0864"
+       id="text20164-2"><tspan
+         sodipodi:role="line"
+         id="tspan20162-4"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="539.26672"
+         y="123.0864">Hover</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2434-7"
+       width="24.694382"
+       height="3.8805456"
+       x="537.62933"
+       y="134.73404"
+       ry="1.2935152" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="539.26672"
+       y="137.19737"
+       id="text2438-9"><tspan
+         sodipodi:role="line"
+         id="tspan2436-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="539.26672"
+         y="137.19737">Disabled</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2600-92"
+       width="24.694382"
+       height="3.8805456"
+       x="510.11777"
+       y="134.73907"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75015"
+       y="137.19737"
+       id="text2604-8"><tspan
+         sodipodi:role="line"
+         id="tspan2602-3"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#100e34;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75015"
+         y="137.19737">Filled</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4ab563;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect56386-0"
+       width="24.694382"
+       height="3.8805456"
+       x="537.62933"
+       y="141.78952"
+       ry="1.2935152" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#4ab563;fill-opacity:1;stroke-width:0.0881941"
+       x="539.26672"
+       y="144.25285"
+       id="text56390-1"><tspan
+         sodipodi:role="line"
+         id="tspan56388-7"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#4ab563;fill-opacity:1;stroke-width:0.0881941"
+         x="539.26672"
+         y="144.25285">Success</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e25563;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect56392-8"
+       width="24.694382"
+       height="3.8805456"
+       x="510.11777"
+       y="141.79456"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#e25563;fill-opacity:1;stroke:none;stroke-width:0.0881941;stroke-opacity:1"
+       x="511.75015"
+       y="144.25285"
+       id="text56396-9"><tspan
+         sodipodi:role="line"
+         id="tspan56394-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#e25563;fill-opacity:1;stroke:none;stroke-width:0.0881941;stroke-opacity:1"
+         x="511.75015"
+         y="144.25285">Error</tspan></text>
+    <rect
+       style="fill:#ffbf18;fill-opacity:1;stroke-width:0.147913;stroke-linecap:square;paint-order:markers stroke fill"
+       id="rect86622-5"
+       width="4.6564941"
+       height="0.35277686"
+       x="510.03403"
+       y="152.29926"
+       ry="0.17638843" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="515.54718"
+       y="152.98695"
+       id="text86626-4"><tspan
+         sodipodi:role="line"
+         id="tspan86624-9"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:1.41111px;font-family:Mulish;-inkscape-font-specification:'Mulish Semi-Bold';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="515.54718"
+         y="152.98695">TOGGLES</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4f48ec;stroke-width:0.168093;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect88386-2"
+       width="1.409042"
+       height="1.409042"
+       x="510.12845"
+       y="159.44402"
+       ry="0.46968067" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="511.85013"
+       y="160.6622"
+       id="text96643-5"><tspan
+         sodipodi:role="line"
+         id="tspan96641-7"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.85013"
+         y="160.6622">Unchecked</tspan></text>
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect101299-4"
+       width="1.5874956"
+       height="1.5874956"
+       x="510.07809"
+       y="162.701"
+       ry="0.52916521" />
+    <path
+       d="m 511.37185,163.20944 c 0,0.0183 -0.007,0.0365 -0.0209,0.0505 l -0.57143,0.57144 c -0.014,0.014 -0.0322,0.021 -0.0505,0.021 -0.0183,0 -0.0366,-0.007 -0.0505,-0.021 l -0.28571,-0.28574 c -0.014,-0.014 -0.0209,-0.0323 -0.0209,-0.0505 0,-0.0408 0.0334,-0.0714 0.0714,-0.0714 0.0183,0 0.0366,0.007 0.0505,0.021 l 0.23523,0.23534 0.52098,-0.52099 c 0.0138,-0.014 0.0321,-0.021 0.0504,-0.021 0.0382,0 0.0714,0.0307 0.0714,0.0714 z"
+       id="path78230-5-9"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.00223211" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="511.92667"
+       y="164.00842"
+       id="text101303-9"><tspan
+         sodipodi:role="line"
+         id="tspan101301-4"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.92667"
+         y="164.00842">Checked</tspan></text>
+    <rect
+       style="fill:#fbfbff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect122168-5"
+       width="0.52916521"
+       height="0.52916521"
+       x="530.09821"
+       y="163.36238"
+       ry="0.79374778" />
+    <rect
+       style="fill:#e9e9ed;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect130350-9"
+       width="1.5874956"
+       height="1.5874956"
+       x="548.64001"
+       y="169.44664"
+       ry="0.79374778" />
+    <rect
+       style="fill:#fbfbff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect130352-3"
+       width="0.79374778"
+       height="0.79374778"
+       x="549.03687"
+       y="169.84352"
+       ry="0.79374778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="552.25244"
+       y="170.75404"
+       id="text130356-5"><tspan
+         sodipodi:role="line"
+         id="tspan130354-7"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="552.25244"
+         y="170.75404">Disabled Selected</tspan></text>
+    <rect
+       style="fill:#c8c7d1;fill-opacity:1;stroke:none;stroke-width:0.18938;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect141154-0"
+       width="2.9808862"
+       height="1.5874792"
+       x="548.61896"
+       y="169.35951"
+       ry="0.79490292" />
+    <rect
+       style="fill:#e3e3e8;fill-opacity:1;stroke:none;stroke-width:0.18938;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect141158-8"
+       width="2.9808862"
+       height="1.5874792"
+       x="548.54791"
+       y="166.10411"
+       ry="0.79490292" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect141160-1"
+       width="1.3229133"
+       height="1.3229133"
+       x="548.7243"
+       y="166.2364"
+       ry="0.79374778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="552.16681"
+       y="167.41153"
+       id="text130362-9"><tspan
+         sodipodi:role="line"
+         id="tspan130360-9"
+         style="font-size:1.41111px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="552.16681"
+         y="167.41153">Disabled On</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+       x="548.48315"
+       y="157.34543"
+       id="text130366-7"><tspan
+         sodipodi:role="line"
+         id="tspan130364-8"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#5e5c70;fill-opacity:1;stroke-width:0.0881941"
+         x="548.48315"
+         y="157.34543">Switches</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="552.15485"
+       y="160.7944"
+       id="text130372-2"><tspan
+         sodipodi:role="line"
+         id="tspan130370-5"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="552.15485"
+         y="160.7944">On</tspan></text>
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect130374-3"
+       width="1.5874956"
+       height="1.5874956"
+       x="548.61896"
+       y="162.83321"
+       ry="0.79374778" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="552.23138"
+       y="164.14061"
+       id="text130378-4"><tspan
+         sodipodi:role="line"
+         id="tspan130376-9"
+         style="font-size:1.41111px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="552.23138"
+         y="164.14061">Off</tspan></text>
+    <rect
+       style="fill:#fbfbff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect130380-0"
+       width="0.79374778"
+       height="0.79374778"
+       x="549.01581"
+       y="163.23009"
+       ry="0.79374778" />
+    <rect
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.18938;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect138919-2"
+       width="2.9808862"
+       height="1.5874792"
+       x="548.61896"
+       y="162.83321"
+       ry="0.79490292" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect138921-0"
+       width="1.3229133"
+       height="1.3229133"
+       x="550.10052"
+       y="162.9655"
+       ry="0.79374778" />
+    <rect
+       style="fill:#c8c7d1;fill-opacity:1;stroke:none;stroke-width:0.18938;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect139003-1"
+       width="2.9808862"
+       height="1.5874792"
+       x="548.61896"
+       y="159.65825"
+       ry="0.79490292" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect139005-9"
+       width="1.3229133"
+       height="1.3229133"
+       x="548.79535"
+       y="159.79053"
+       ry="0.79374778" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.199902;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect141156-6"
+       width="1.3229133"
+       height="1.3229133"
+       x="550.10052"
+       y="169.49179"
+       ry="0.79374778" />
+    <path
+       d="m 560.64342,183.50932 -0.39802,0.40077 c -0.0222,0.0197 -0.0479,0.0297 -0.0736,0.0297 -0.0257,0 -0.0513,-0.01 -0.0709,-0.0297 l -0.39801,-0.40077 c -0.0315,-0.0287 -0.0401,-0.0717 -0.0245,-0.10909 0.0155,-0.0375 0.0521,-0.062 0.0926,-0.062 h 0.79883 c 0.0405,0 0.0771,0.0243 0.0926,0.0619 0.0155,0.0375 0.01,0.0807 -0.019,0.10916 z"
+       id="path1432-2"
+       style="fill:#e3e3e8;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1434-1"
+       width="24.694382"
+       height="3.8805456"
+       x="537.63879"
+       y="181.69844"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="539.27118"
+       y="184.15671"
+       id="text1438-2"><tspan
+         sodipodi:role="line"
+         id="tspan1436-0"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="539.27118"
+         y="184.15671">Disabled</tspan></text>
+    <path
+       d="m 533.12679,197.87982 -0.398,-0.40076 c -0.0222,-0.0197 -0.0479,-0.0297 -0.0736,-0.0297 -0.0257,0 -0.0513,0.01 -0.0709,0.0297 l -0.398,0.40076 c -0.0315,0.0287 -0.0401,0.0717 -0.0245,0.1091 0.0155,0.0375 0.0521,0.062 0.0926,0.062 h 0.79883 c 0.0405,0 0.0771,-0.0243 0.0926,-0.0619 0.0155,-0.0375 0.01,-0.0807 -0.019,-0.10917 z"
+       id="path2891-7"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2893-3"
+       width="24.694382"
+       height="3.8805456"
+       x="510.12222"
+       y="195.8094"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#060614;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75461"
+       y="198.26768"
+       id="text2897-1"><tspan
+         sodipodi:role="line"
+         id="tspan2895-1"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#060614;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="198.26768">Select active</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter20797-2)"
+       id="rect3625-9"
+       width="73.667625"
+       height="37.327339"
+       x="533.92242"
+       y="275.34311"
+       ry="5.2916665"
+       transform="matrix(0.33333249,0,0,0.33333249,332.21779,108.50755)" />
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.174249;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect27265-0"
+       width="23.241318"
+       height="2.1291134"
+       x="510.69547"
+       y="201.68604" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75461"
+       y="203.2065"
+       id="text18829-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="203.2065"
+         id="tspan26905-6">Caracas</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="205.67595"
+         id="tspan26907-7">Medellín</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="208.14539"
+         id="tspan26909-7">Santiago de Chile</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="210.61482"
+         id="tspan39742-4">Montevideo</tspan></text>
+    <rect
+       style="fill:#2a21e8;fill-opacity:1;stroke:none;stroke-width:0.344599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect28607-0"
+       width="0.22997685"
+       height="2.1291134"
+       x="510.69547"
+       y="201.68604" />
+    <path
+       d="m 560.81979,197.87982 -0.398,-0.40076 c -0.0222,-0.0197 -0.0479,-0.0297 -0.0736,-0.0297 -0.0257,0 -0.0513,0.01 -0.0709,0.0297 l -0.39801,0.40076 c -0.0314,0.0287 -0.04,0.0717 -0.0245,0.1091 0.0155,0.0375 0.0521,0.062 0.0926,0.062 h 0.79882 c 0.0405,0 0.0771,-0.0243 0.0926,-0.0619 0.0155,-0.0375 0.01,-0.0807 -0.019,-0.10917 z"
+       id="path32125-6"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect32127-4"
+       width="24.694382"
+       height="3.8805456"
+       x="537.81519"
+       y="195.8094"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="539.44757"
+       y="198.26768"
+       id="text32131-7"><tspan
+         sodipodi:role="line"
+         id="tspan32129-4"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.44757"
+         y="198.26768">Multi-select active</tspan></text>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#e3e3e8;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke;filter:url(#filter20797-2)"
+       id="rect32133-8"
+       width="73.667625"
+       height="37.327339"
+       x="617.00165"
+       y="275.34311"
+       ry="5.2916665"
+       transform="matrix(0.33333249,0,0,0.33333249,332.21779,108.50755)" />
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.174134;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect32135-5"
+       width="23.210558"
+       height="2.1291134"
+       x="538.38843"
+       y="201.68604" />
+    <path
+       d="m 560.61646,202.46527 c 0,0.0183 -0.007,0.0365 -0.0209,0.0505 l -0.57143,0.57143 c -0.0139,0.014 -0.0322,0.021 -0.0505,0.021 -0.0183,0 -0.0366,-0.007 -0.0505,-0.021 l -0.28571,-0.28572 c -0.014,-0.014 -0.0209,-0.0323 -0.0209,-0.0505 0,-0.0408 0.0334,-0.0714 0.0714,-0.0714 0.0183,0 0.0366,0.007 0.0505,0.021 l 0.23522,0.23533 0.52099,-0.521 c 0.0138,-0.014 0.0321,-0.021 0.0504,-0.021 0.0382,0 0.0714,0.0307 0.0714,0.0714 z"
+       id="path78230-5-75-8"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00223211" />
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.174117;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect33758-2"
+       width="23.205919"
+       height="2.1291134"
+       x="538.37"
+       y="206.57513" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="539.44757"
+       y="203.2065"
+       id="text32145-6"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.44757"
+         y="203.2065"
+         id="tspan32143-0">Caracas</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.44757"
+         y="205.67595"
+         id="tspan42921-6">Medellín</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.44757"
+         y="208.14539"
+         id="tspan42923-6">Santiago de Chile</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.44757"
+         y="210.61482"
+         id="tspan42925-4">Montevideo</tspan></text>
+    <rect
+       style="fill:#2a21e8;fill-opacity:1;stroke:none;stroke-width:0.344599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect32147-6"
+       width="0.22997685"
+       height="2.1291134"
+       x="538.38843"
+       y="201.68604" />
+    <path
+       d="m 560.61646,207.22777 c 0,0.0183 -0.007,0.0365 -0.0209,0.0505 l -0.57143,0.57142 c -0.0139,0.014 -0.0322,0.021 -0.0505,0.021 -0.0183,0 -0.0366,-0.007 -0.0505,-0.021 l -0.28571,-0.28573 c -0.014,-0.014 -0.0209,-0.0323 -0.0209,-0.0505 0,-0.0408 0.0334,-0.0714 0.0714,-0.0714 0.0183,0 0.0366,0.007 0.0505,0.021 l 0.23522,0.23533 0.52099,-0.521 c 0.0138,-0.014 0.0321,-0.021 0.0504,-0.021 0.0382,0 0.0714,0.0307 0.0714,0.0714 z"
+       id="path33760-2"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00223211" />
+    <rect
+       style="fill:#2a21e8;fill-opacity:1;stroke:none;stroke-width:0.344599;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect33762-8"
+       width="0.22997685"
+       height="2.1291134"
+       x="538.37"
+       y="206.57513" />
+    <path
+       d="m 533.12679,190.5649 -0.398,0.40077 c -0.0222,0.0197 -0.0479,0.0297 -0.0736,0.0297 -0.0257,0 -0.0513,-0.01 -0.0709,-0.0297 l -0.398,-0.40077 c -0.0315,-0.0287 -0.0401,-0.0717 -0.0245,-0.1091 0.0155,-0.0375 0.0521,-0.062 0.0926,-0.062 h 0.79883 c 0.0405,0 0.0771,0.0243 0.0926,0.0619 0.0155,0.0375 0.01,0.0807 -0.019,0.10917 z"
+       id="path43007-9"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect43009-6"
+       width="24.694382"
+       height="3.8805456"
+       x="510.12222"
+       y="188.75392"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#060614;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75461"
+       y="191.2122"
+       id="text43013-0"><tspan
+         sodipodi:role="line"
+         id="tspan43011-7"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#060614;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75461"
+         y="191.2122">Selected</tspan></text>
+    <path
+       d="m 560.64342,190.5649 -0.39802,0.40077 c -0.0222,0.0197 -0.0479,0.0297 -0.0736,0.0297 -0.0257,0 -0.0513,-0.01 -0.0709,-0.0297 l -0.39801,-0.40077 c -0.0315,-0.0287 -0.0401,-0.0717 -0.0245,-0.1091 0.0155,-0.0375 0.0521,-0.062 0.0926,-0.062 h 0.79883 c 0.0405,0 0.0771,0.0243 0.0926,0.0619 0.0155,0.0375 0.01,0.0807 -0.019,0.10917 z"
+       id="path43015-0"
+       style="fill:#e3e3e8;fill-opacity:1;stroke-width:0.00313144" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#c8c7d1;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect43017-1"
+       width="24.694382"
+       height="3.8805456"
+       x="537.63879"
+       y="188.75392"
+       ry="1.2935152" />
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.0913751;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect45458-0"
+       width="5.2480955"
+       height="2.1166608"
+       x="538.75873"
+       y="189.63586"
+       ry="0.70555371" />
+    <path
+       d="m 543.34187,190.47504 c 0.026,-0.026 0.026,-0.0682 0,-0.0943 -0.0129,-0.013 -0.03,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 l -0.21954,0.2194 -0.2195,-0.21934 c -0.013,-0.0131 -0.0301,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 -0.026,0.026 -0.026,0.0682 0,0.0943 l 0.21957,0.2196 -0.21957,0.21943 c -0.026,0.026 -0.026,0.0683 0,0.0943 0.026,0.026 0.0682,0.026 0.0943,0 l 0.21952,-0.21966 0.21958,0.21956 c 0.026,0.026 0.0682,0.026 0.0943,0 0.026,-0.026 0.026,-0.0682 0,-0.0943 l -0.21958,-0.21956 z"
+       id="path82765-3-1"
+       style="fill:#4f48ec;fill-opacity:1;stroke:none;stroke-width:0.00208327" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.23472px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;stroke-width:0.0881941"
+       x="539.18097"
+       y="191.14365"
+       id="text46986-3"><tspan
+         sodipodi:role="line"
+         id="tspan46984-7"
+         style="font-size:1.23472px;fill:#100e34;stroke-width:0.0881941"
+         x="539.18097"
+         y="191.14365">Multi</tspan></text>
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.0964884;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect47972-7"
+       width="5.8519125"
+       height="2.1166608"
+       x="544.22675"
+       y="189.63586"
+       ry="0.70555371" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.23472px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;stroke-width:0.0881941"
+       x="544.64899"
+       y="191.14365"
+       id="text47978-2"><tspan
+         sodipodi:role="line"
+         id="tspan47976-6"
+         style="font-size:1.23472px;fill:#100e34;stroke-width:0.0881941"
+         x="544.64899"
+         y="191.14365">Select</tspan></text>
+    <path
+       d="m 549.33908,190.47504 c 0.026,-0.026 0.026,-0.0682 0,-0.0943 -0.0129,-0.013 -0.03,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 l -0.21953,0.2194 -0.21951,-0.21934 c -0.013,-0.0131 -0.0301,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 -0.026,0.026 -0.026,0.0682 0,0.0943 l 0.21956,0.2196 -0.21956,0.21943 c -0.026,0.026 -0.026,0.0683 0,0.0943 0.026,0.026 0.0682,0.026 0.0943,0 l 0.21952,-0.21966 0.21958,0.21956 c 0.026,0.026 0.0682,0.026 0.0943,0 0.026,-0.026 0.026,-0.0682 0,-0.0943 l -0.21957,-0.21956 z"
+       id="path47974-4"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00208327" />
+    <rect
+       style="fill:#f1f1f3;fill-opacity:1;stroke:none;stroke-width:0.107614;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect49872-5"
+       width="7.2791753"
+       height="2.1166608"
+       x="550.224"
+       y="189.63586"
+       ry="0.70555371" />
+    <text
+       xml:space="preserve"
+       style="font-weight:300;font-size:1.23472px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#100e34;stroke-width:0.0881941"
+       x="550.64624"
+       y="191.14365"
+       id="text49876-2"><tspan
+         sodipodi:role="line"
+         id="tspan49874-0"
+         style="font-size:1.23472px;fill:#100e34;stroke-width:0.0881941"
+         x="550.64624"
+         y="191.14365">Selected</tspan></text>
+    <path
+       d="m 556.92376,190.47504 c 0.026,-0.026 0.026,-0.0682 0,-0.0943 -0.0129,-0.013 -0.03,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 l -0.21953,0.2194 -0.2195,-0.21934 c -0.013,-0.0131 -0.0301,-0.0197 -0.0471,-0.0197 -0.0171,0 -0.0341,0.006 -0.0471,0.0197 -0.026,0.026 -0.026,0.0682 0,0.0943 l 0.21957,0.2196 -0.21957,0.21943 c -0.026,0.026 -0.026,0.0683 0,0.0943 0.026,0.026 0.0682,0.026 0.0943,0 l 0.21952,-0.21966 0.21958,0.21956 c 0.026,0.026 0.0682,0.026 0.0943,0 0.026,-0.026 0.026,-0.0682 0,-0.0943 l -0.21973,-0.21956 z"
+       id="path49878-2"
+       style="fill:#4f48ec;fill-opacity:1;stroke-width:0.00208327" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#4f48ec;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1554-9"
+       width="24.694382"
+       height="3.8805456"
+       x="510.11777"
+       y="127.68359"
+       ry="1.2901634" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+       x="511.75015"
+       y="130.14188"
+       id="text1558-0"><tspan
+         sodipodi:role="line"
+         id="tspan1556-9"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#918fa3;fill-opacity:1;stroke-width:0.0881941"
+         x="511.75015"
+         y="130.14188">Focus</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#4f48ec;stroke-width:0.176389;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1560-9"
+       width="24.694382"
+       height="3.8805456"
+       x="537.62933"
+       y="127.67855"
+       ry="1.2935152" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:1.41111px;line-height:1.75;font-family:Mulish;-inkscape-font-specification:'Mulish Light';word-spacing:0px;fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+       x="539.26672"
+       y="130.14188"
+       id="text1564-4"><tspan
+         sodipodi:role="line"
+         id="tspan1562-5"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Mulish;-inkscape-font-specification:'Mulish Light';fill:#2f2e38;fill-opacity:1;stroke-width:0.0881941"
+         x="539.26672"
+         y="130.14188">Typing</tspan></text>
+    <path
+       d="m 560.29525,142.67166 c -0.58456,0 -1.05832,0.47376 -1.05832,1.05833 0,0.58457 0.47376,1.05833 1.05832,1.05833 0.58457,0 1.05833,-0.47376 1.05833,-1.05833 0,-0.58457 -0.47376,-1.05833 -1.05833,-1.05833 z m 0.47874,0.8756 -0.52917,0.52917 c -0.0227,0.0226 -0.0521,0.0339 -0.0819,0.0339 -0.0298,0 -0.0593,-0.0113 -0.0819,-0.0338 l -0.26458,-0.2646 c -0.0451,-0.0452 -0.0451,-0.1186 0,-0.16384 0.0452,-0.0452 0.11861,-0.0452 0.16384,0 l 0.18264,0.1828 0.44731,-0.4473 c 0.0452,-0.0452 0.11861,-0.0452 0.16384,0 0.0449,0.0451 0.0449,0.11867 -1.3e-4,0.1637 z"
+       id="path17944-1"
+       style="fill:#4ab563;fill-opacity:1;stroke-width:0.00413409" />
+    <path
+       d="m 532.78369,142.67669 c -0.58456,0 -1.05833,0.47384 -1.05833,1.05834 0,0.58449 0.47377,1.05833 1.05833,1.05833 0.58456,0 1.05833,-0.47384 1.05833,-1.05833 0,-0.5845 -0.47377,-1.05834 -1.05833,-1.05834 z m 0.33114,1.2526 c 0.0388,0.0392 0.0388,0.1019 0,0.1411 -0.0388,0.0392 -0.10153,0.0392 -0.14031,0 l -0.19083,-0.1944 -0.19443,0.1944 c -0.0388,0.0392 -0.10153,0.0392 -0.1403,0 -0.0388,-0.0392 -0.0388,-0.1019 0,-0.1411 l 0.19442,-0.19443 -0.19455,-0.19787 c -0.0388,-0.0392 -0.0388,-0.1019 0,-0.1411 0.0388,-0.0392 0.10153,-0.0392 0.14031,0 l 0.19455,0.19816 0.19443,-0.19439 c 0.0388,-0.0392 0.10153,-0.0392 0.14031,0 0.0388,0.0392 0.0388,0.10189 0,0.14109 l -0.19443,0.19444 z"
+       id="path22117-0"
+       style="fill:#e25563;stroke-width:0.00413409" />
   </g>
 </svg>
